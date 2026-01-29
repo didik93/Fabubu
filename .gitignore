@@ -1,0 +1,16 @@
+# Binaries
+*.dmg
+*.exe
+*.msi
+
+# System files
+.DS_Store
+
+# Node/Python
+node_modules/
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
