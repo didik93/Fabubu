@@ -1,7 +1,4 @@
-# Binaries
-*.dmg
-*.exe
-*.msi
+
 
 # System files
 .DS_Store
@@ -10,7 +7,3 @@
 node_modules/
 __pycache__/
 *.pyc
-
-# IDEs
-.vscode/
-.idea/

@@ -31,13 +31,13 @@
 
 ## 🚀 下载与安装
 
-请前往 [Releases 页面](https://github.com/AIKnightPanda/Fabubu/releases) 下载最新版本，或查看 [安装说明](release/安装说明.md) 获取详细教程。
+请查看 [安装说明](release/安装说明.md) 获取详细教程，也可以直接在下方下载安装包：
 
-| 平台 | 最新版本文件名 (示例) | 说明 |
+| 平台 | 最新版本文件名 | 说明 |
 | :--- | :--- | :--- |
-| **Windows** | `Fabubu_x.x.x_x64-setup.exe` | 适用于 Windows 10/11 (x64) |
-| **macOS (Intel)** | `Fabubu_x.x.x_x64.dmg` | 适用于 Intel 芯片的 Mac |
-| **macOS (M1/M2/M3)** | `Fabubu_x.x.x_aarch64.dmg` | 适用于 Apple Silicon 芯片的 Mac |
+| **Windows** | [Fabubu_0.1.0_x64-setup.exe](release/Fabubu_0.1.0_x64-setup.exe) | 适用于 Windows 10/11 (x64) |
+| **macOS (Intel)** | [Fabubu_0.1.0_x64.dmg](release/Fabubu_0.1.0_x64.dmg) | 适用于 Intel 芯片的 Mac |
+| **macOS (M1/M2/M3)** | [Fabubu_0.1.0_aarch64.dmg](release/Fabubu_0.1.0_aarch64.dmg) | 适用于 Apple Silicon 芯片的 Mac |
 
 ### 🔧 安装故障排除 (Troubleshooting)
 
