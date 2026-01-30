@@ -35,8 +35,8 @@
 
 | 平台 | 最新版本文件名 | 说明 |
 | :--- | :--- | :--- |
-| **Windows** | [Fabubu_0.1.1_x64-setup.exe](release/Fabubu_0.1.1_x64-setup.exe) | 适用于 Windows 10/11 (x64) |
-| **macOS (Intel)** | [Fabubu_0.1.1_x64.dmg](release/Fabubu_0.1.1_x64.dmg) | 适用于 Intel 芯片的 Mac |
+| **Windows** | [Fabubu_0.1.2_x64-setup.exe](release/Fabubu_0.1.2_x64-setup.exe) | 适用于 Windows 10/11 (x64) |
+| **macOS (Intel)** | [Fabubu_0.1.2_x64.dmg](release/Fabubu_0.1.2_x64.dmg) | 适用于 Intel 芯片的 Mac |
 | **macOS (M1/M2/M3)** | [Fabubu_0.1.1_aarch64.dmg](release/Fabubu_0.1.1_aarch64.dmg) | 适用于 Apple Silicon 芯片的 Mac |
 
 ### 🔧 安装故障排除 (Troubleshooting)
